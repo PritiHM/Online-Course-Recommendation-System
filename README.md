@@ -37,4 +37,12 @@ The system provides personalized course recommendations to help users discover c
 - Advanced Personalization Techniques
 
 ## Author
-Priti Mahajan
+Team Members’ Names: 
+Sameer Panhalkar
+Nikita Prakash Palkar
+Rishi
+Jadav Pavan Rao
+Priti Harshal Mahajan
+Saylee Sairaj Ranesardessai
+Jannu Bhanu Prakash 
+
