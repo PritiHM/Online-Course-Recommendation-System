@@ -1,6 +1,0 @@
-# requirements.txt — Course Recommendation System (macOS)
-numpy>=1.24,<2.0
-pandas>=2.0,<3.0
-matplotlib>=3.7
-seaborn>=0.12
-streamlit>=1.32
